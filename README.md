@@ -1,1 +1,2 @@
-[![Iliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=12ya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-stats-aph2-kaw3yj3s1-12ya.vercel.app)https://github-stats-aph2-kaw3yj3s1-12ya.vercel.app
+
+[![Anurag's GitHub stats](https://github-stats-aph2-fix3ehkm6-12ya.vercel.app/api?username=12ya)](https://github.com/anuraghazra/github-readme-stats)
